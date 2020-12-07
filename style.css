@@ -1,0 +1,298 @@
+h1{
+    font-family: Impact, sans-serif;
+    font-style: inherit;
+    font-size: 36px;
+    color: rgb(33, 99, 13);
+}
+.kimhae{font-family: Impact, sans-serif;
+    font-style: inherit;
+    font-size: 28px;
+    color: rgb(36, 36, 36);
+    position: relative;
+    top: 23px;
+
+}
+.search{
+    position: relative;
+    top: 50px;
+    width: 400px;
+    height:27px;
+    border:3px solid green;
+}
+
+
+
+.navbar a {
+    position: relative;
+    top: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    font-style: inherit;
+    color: rgb(22, 22, 22);
+    padding: 20px;
+    text-decoration: none;
+
+
+  }
+
+  .navbar a:hover {
+    background-color: #ffffff;
+    color: rgb(19, 121, 36);
+  }
+
+
+
+.header1{
+    background-image: url("그림10.png");
+    justify-content:space-evenly;
+    display: flex;
+  }
+
+
+
+
+  .navbar2{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    
+
+  }
+  .navbar2 a {
+
+    font-weight: 600;
+    font-size: 20px;
+    font-style: inherit;
+    color: rgb(22, 22, 22);
+    padding: 48px;
+    text-decoration: none;
+
+  }
+
+  .navbar2 a:hover {
+    background-color: #ffffff;
+    color: rgb(19, 121, 36);
+  }  
+header{
+    height:227px;
+    background-image: url("그림11.png");
+}
+.category{
+    position: relative;
+    left: 30px;
+    top:50px;
+    display:inline;
+}
+
+.category a {
+    padding: 3px;
+    font-weight: 600;
+    font-size: 20px;
+    font-style: inherit;
+    color: rgb(22, 22, 22);
+    text-decoration: none;
+
+ 
+
+  }
+  .category a:hover {
+    background-color: #ffffff;
+    color: rgb(19, 121, 36);
+  }   
+
+  .body{
+    display: flex;
+  }
+
+.picture{
+    padding:27px;
+    position: relative;
+    left: 200px;
+
+}
+
+h3{
+    font-family: Impact, sans-serif;
+    font-style: inherit;
+    font-size: 36px;
+    color: rgb(48, 48, 48);
+    text-align: center;
+    border-bottom: 3px solid #333;
+    padding-bottom: 30px;
+}
+
+.main-container {
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  
+
+
+  @media (max-width: 700px) {
+    .main-container {
+      padding: 8px;
+    }
+
+  }
+
+ .shop1{ width: 300px; 
+  max-height: 600px;
+  margin: auto;
+  }
+
+  .shop1 a{
+
+    font-weight: 600;
+    font-size: 20px;
+    font-style: inherit;
+    color: rgb(22, 22, 22);
+    padding: 48px;
+    text-decoration: none;
+    position: relative;
+    left: 35px;
+    top:15px;
+
+  }       
+.shop2{ width: 300px; 
+    max-height: 600px;
+    margin: auto;}
+    .shop2 a{
+
+        font-weight: 600;
+        font-size: 20px;
+        font-style: inherit;
+        color: rgb(22, 22, 22);
+        padding: 48px;
+        text-decoration: none;
+        position: relative;
+        left: 35px;
+        top:15px;
+    
+      }  
+.shop3{ width: 300px; 
+        max-height: 600px;
+        margin: auto;}
+.shop3 a{
+
+            font-weight: 600;
+            font-size: 20px;
+            font-style: inherit;
+            color: rgb(22, 22, 22);
+            padding: 48px;
+            text-decoration: none;
+            position: relative;
+            left: 35px;
+            top:15px;
+        
+          }
+          .shop4{ width: 300px; 
+            max-height: 600px;
+            margin: auto;}
+    .shop4 a{
+    
+                font-weight: 600;
+                font-size: 20px;
+                font-style: inherit;
+                color: rgb(22, 22, 22);
+                padding: 48px;
+                text-decoration: none;
+                position: relative;
+                left: 35px;
+                top:15px;
+            
+              }
+              .shop5{ width: 300px; 
+                max-height: 600px;
+                margin: auto;}
+        .shop5 a{
+        
+                    font-weight: 600;
+                    font-size: 20px;
+                    font-style: inherit;
+                    color: rgb(22, 22, 22);
+                    padding: 48px;
+                    text-decoration: none;
+                    position: relative;
+                    left: 60px;
+                    top:15px;
+                
+                  }     
+                  
+                  .shop6{ width: 300px; 
+                    max-height: 600px;
+                    margin: auto;}
+            .shop6 a{
+            
+                        font-weight: 600;
+                        font-size: 20px;
+                        font-style: inherit;
+                        color: rgb(22, 22, 22);
+                        padding: 48px;
+                        text-decoration: none;
+                        position: relative;
+                        left: 35px;
+                        top:15px;
+                    
+                      }                  
+.gorgo{
+    position: relative;
+    left: 30px;
+}
+.rr{
+    position: relative;
+    left: 30px;
+}
+.indigo{
+    position: relative;
+    left: 50px;
+}
+
+.main-container2 {
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .grandma{
+    position: relative;
+    left: 50px;
+}
+.dodo{
+    position: relative;
+    left: 43px;
+}
+.angpang{
+    position: relative;
+    left: 50px;
+} 
+
+
+  @media (max-width: 700px) {
+    .main-container {
+      padding: 8px;
+    }
+
+}
+
+.foot{
+    justify-content:space-evenly;
+    display: flex;
+  }
+
+  .last{
+  position: relative;
+    top:50px;
+  }
+
+.info2{
+    position: relative;
+    top:50px;
+}
+.copy{
+    float:right;
+    position: relative;
+    right:50px;
+}
